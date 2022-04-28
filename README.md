@@ -5,20 +5,20 @@
 
 # Project_Objective:
 
-Our objective is to replicate the original site with all the functionalities and design elements. We aim to create the best clone of the website using the skills we have learnt through Masai School.
+My objective is to replicate the original site with all the functionalities and design elements. My aim to create the best clone of the website using the skills we have learnt through Masai School.
 
 Tools & Technology:
 
-# We used the following softwares:
+# I used the following softwares:
 
 VS Code - To write HTML,CSS and JavaScript code.
 GitHub Desktop - To maintain the Git repository.
 Microsoft Edge,Google Chrome & Mozilla Firefox - To check the functionality and output of the code.
 Languages:
 
-# We wrote the code in the following languages:
+# I wrote the code in the following languages:
 
-HTML - We used HTML to give the basic structure to our webpages.
-CSS - We used CSS to give style properties to our webpages.
-JavaScript - We used JavaScript to give dynamic and functional abilities to our webpages.
-CLI - We used CLI to commit changes to our repository.
+HTML - I used HTML to give the basic structure to my webpages.
+CSS - I used CSS to give style properties to my webpages.
+JavaScript - I used JavaScript to give dynamic and functional abilities to my webpages.
+CLI - I used CLI to commit changes to my repository.
